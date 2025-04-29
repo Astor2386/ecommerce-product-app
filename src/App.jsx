@@ -11,7 +11,7 @@ function App() {
       price: 999.99,
       description: 'A powerful laptop for work and gaming.',
       category: 'Electronics',
-      image: '/images/laptop.jpg', // Placeholder for the laptop image
+      image: '/images/laptop.jpg',
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ function App() {
       price: 229.99,
       description: 'Wireless earbuds with great sound quality.',
       category: 'Electronics',
-      image: '/images/headphones.jpg', // Placeholder for the headphones image
+      image: '/images/headphones.jpg',
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ function App() {
       price: 399.99,
       description: 'Ultimate comfort for intense gaming',
       category: 'Home&Office',
-      image: '/images/gamerchair.jpg', // Placeholder for the Gamerchair image
+      image: '/images/gamerchair.jpg',
     },
     {
       id: 4,
@@ -35,7 +35,7 @@ function App() {
       price: 699.99,
       description: 'A high-end smartphone with advanced features.',
       category: 'Electronics',
-      image: '/images/smartphone.jpg', // Placeholder for the smartphone image
+      image: '/images/smartphone.jpg',
     },
     {
       id: 5,
@@ -43,7 +43,7 @@ function App() {
       price: 29.99,
       description: 'Stylish shirt with Hexagon pattern.',
       category: 'Clothing',
-      image: '/images/shirt.jpg', // Placeholder for the shirts image
+      image: '/images/shirt.jpg',
     },
   ]);
 
