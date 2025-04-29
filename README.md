@@ -4,15 +4,20 @@ The app includes product details such as name, price, description, and local sto
 This project was developed as part of Module 6 of a React learning course.
 
 ### Features
-Displays a list of products with names, prices, descriptions, and images.
+-Displays a list of products with names, prices, descriptions, and images.
 
-Organizes products into three categories: Electronics, Clothing, and Home&Office.
+-Organizes products into three categories: Electronics, Clothing, and Home&Office.
 
-Uses local stock photos for each product, stored in the public/images directory.
+-Uses local stock photos for each product, stored in the public/images directory.
 
-Styled with custom CSS, including flexbox for product cards and spacing between category sections.
+-Styled with custom CSS, including flexbox for product cards and spacing between category sections.
 
-Responsive design with a clean, user-friendly layout.
+-Responsive design with a clean, user-friendly layout.
+
+(Not sure if was necessary but it looks like it was done in the Steven C's videos)
+- Fully functional for mobile phones.
+
+- Basic accessibility features, semantic HTML and descriptive alt text.
 
 ### Backround on the app
 This project was built as part of Module 6, focusing on the following React concepts:
